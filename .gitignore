@@ -1,0 +1,14 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local IDS logs and captured statistics
+alerts.log
+traffic_data.csv
+
+# Local backup
+ids backup.py
